@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesingPaternStrategy_Exercise", "DesingPaternStrategy_Exercise\DesingPaternStrategy_Exercise.csproj", "{9207F4D8-A18F-47D2-8EC8-1EFEA987BD78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9207F4D8-A18F-47D2-8EC8-1EFEA987BD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9207F4D8-A18F-47D2-8EC8-1EFEA987BD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9207F4D8-A18F-47D2-8EC8-1EFEA987BD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9207F4D8-A18F-47D2-8EC8-1EFEA987BD78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54E5CDA-4511-4CB2-941A-5E31923FC383}
+	EndGlobalSection
+EndGlobal
